@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Akshat Chauhan's Notes Blog</title>
+        <link>https://akormous.github.io/notes/blog</link>
+        <description>Akshat Chauhan's Notes Blog</description>
+        <lastBuildDate>Sun, 18 Dec 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[First Blog Post]]></title>
+            <link>https://akormous.github.io/notes/blog/first-blog</link>
+            <guid>first-blog</guid>
+            <pubDate>Sun, 18 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is the first blog post of my life.]]></description>
+            <content:encoded><![CDATA[<p>This is the first blog post of my life.</p><p>My name is Akshat and I am 23 years old. I am a Software Engineer by profession but I also like doing other stuff, like learning piano, playing PC games, scripting and editing videos and reading books.</p><p>I also have an obsession of taking notes of whatever I study, whether it is technology, philosophy, money or life. So, I thought it would be great if I share my notes with the rest of the world, and this is how this website was born.
+There is something to read here for every age group. </p><p>If you find any errors/typos, please drop an email <a href="mailto:iamakshatchauhan@gmail.com" target="_blank" rel="noopener noreferrer">iamakshatchauhan@gmail.com</a>.</p><p>Or if you're smart, create a pull request by clicking on <code>Edit this page</code> button at the bottom of any document page.</p><p>Cheers :)</p>]]></content:encoded>
+            <category>first</category>
+            <category>blog</category>
+        </item>
+    </channel>
+</rss>

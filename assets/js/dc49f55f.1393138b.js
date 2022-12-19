@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_notes=self.webpackChunkmy_notes||[]).push([[6217],{375:s=>{s.exports=JSON.parse('{"label":"first","permalink":"/notes/blog/tags/first","allTagsPath":"/notes/blog/tags","count":1}')}}]);
