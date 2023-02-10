@@ -9,7 +9,7 @@
     <icon>https://akormous.github.io/notes/img/favicon-32x32.png</icon>
     <entry>
         <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>first-blog</id>
+        <id>https://akormous.github.io/notes/blog/first-blog</id>
         <link href="https://akormous.github.io/notes/blog/first-blog"/>
         <updated>2022-12-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is the first blog post of my life.]]></summary>

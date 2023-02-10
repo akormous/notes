@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Akshat Chauhan&#39;s Notes</ShortName>
+  <Description>Search Akshat Chauhan&#39;s Notes</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16" type="image/x-icon">https://akormous.github.io/notes/img/favicon-32x32.png</Image>
+  <Url type="text/html" method="get" template="https://akormous.github.io/notes/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://akormous.github.io/notes/opensearch.xml" />
+  <moz:SearchForm>https://akormous.github.io/notes/</moz:SearchForm>
+</OpenSearchDescription>
